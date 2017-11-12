@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ActivityTransitionSimple</string>
+    <string name="title_activity_destination">DestinationActivity</string>
+    <string name="transition_name">transition_name</string>
+    <string name="recycler_transition">transition_name_%d</string>
+    <string name="sample_url">https://static.spin.com/files/2017/07/chesterbennington-1500576901-640x426.jpg</string>
+
+    <string name="copy_transition_name">name%1$d:%2$d</string>
+
+</resources>
